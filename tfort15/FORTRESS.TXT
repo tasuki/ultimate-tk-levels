@@ -1,0 +1,61 @@
+================================================================
+Title                   : Team Fortress episode :)
+Date                    : V1.0 started 27/9/1998, finished 1/10/1998
+                          V1.5 started 16/10/1998, finished 17/10/1998
+Filename                : fort15.zip
+Version                 : #1.5 Updated!!!!
+TK version              : 3.1 (NOT 3.0!)
+Author                  : Destroyer
+Email Address           : thyvarinen@usa.net
+Home Page               : http://www.tapankaikki.cjb.net
+Snail Mail Address      : use email!
+
+Description             : Set of high quality single player levels,
+                          levels are challenning, but not impossible.
+			  Do not cheat! It's supposed to play without
+			  code(s) :)). PLEASE!! send feedback
+			  and visit my TK pages! Very cool in co/op.
+
+                          New version v1.5
+
+                          NEW : Fixed small stream bugs.
+                                5 new levels!
+
+Additional Credits to   : Error Free software for answering for my
+                          stupid questions. Kalle Vanhatalo (*big
+                          thanx for helping with DM levels rating:))
+                          All who're give me your levels for my
+                          awesome TK3 pages :) Old Man's Child, DimmuB,
+                          Reaper(tsyren@usa.net).
+
+================================================================
+* How to play???? *
+
+Unzip to \levs\fortress
+and run the game :)
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : Cool!!! :)
+Deathmatch              : Nope :(
+
+* Construction *
+
+Base                    : New levels from scratch :o)
+Editor(s) used          : TK editor 1.2
+Known Bugs              : None, mail if there is. :(
+Build Time              : Dunno :)
+
+* Other Info *
+
+Check out my homepage http://www.tapankaikki.cjb.net for more
+levels. Get the whole series! You can also send your own
+levels for me, and I'll put them to my TK3 page.
+
+If you want to join my TK3 mailing list, surf to my homepage!
+You'll get news about new deathmatch levels/single player missions.
+
+

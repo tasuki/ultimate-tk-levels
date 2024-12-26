@@ -1,0 +1,43 @@
+
+Nimi                    : Drugs for TK3.1
+Kenttiä                 : 10
+Versio                  : 1.0
+Päivä                   : 7.12.1999
+Tiedostonimi            : drugs.zip
+Tekijä                  : Strange Man
+Sähköposti              : tommisuni_88@hotmail.com
+Kotisivu                : www.geocities.com\tommisuni
+Kiitokset               : Error Free - Kun tekivät näin hyvän pelin
+nimeltä Tapan Kaikki.
+Tietoa                  : Suositellaan yksinpeliä.Kaksinpelillä liian vaikea.
+
+Jos löydät bugeja tai jotain muuta niin
+muista lähettää palautetta.
+
+Episodin vaatimukset:
+Ultimate Tapan Kaikki V.1.21
+
+Episodin tarina:
+
+Gorton Sleeman ja Nuke Dukem oli kuullut
+että jotkut äijät ovat huumediilereit„.
+Päätät menn„ tutkimaan asiaa, ja joudut
+lyhyeen seikkailuun.
+
+------------------------------------------------------------------------------
+
+Peli Informaatiota:
+
+Yksinpeli               : Kyllä
+Kaksinpeli              : Kyllä
+Deathmatch              : Ei
+
+Teko:
+
+Editoria k„ytetty       : TK Editor V.1.3
+Rakennus aika           : 1 «h
+
+Tekijänoikeudet:
+
+Voit käyttää näitä tekemiäni kenttiä omissa kentissäsi
+jos voisit kiltisti antaa minulle creditin episodissasi.

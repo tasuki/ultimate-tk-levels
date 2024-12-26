@@ -1,0 +1,15 @@
+
+Nimi                    : The Hell
+Kenttiä                 : 11
+Versio                  : 1.0
+Päivä                   : 3.11.1999
+Tiedostonimi            : hell.arj
+Tekijä                  : Strange Man
+Sähköposti              : tommisuni_88@hotmail.com
+Kotisivu                : Ei ole.
+
+Jos löydät bugeja tai jotain muuta niin
+muista lähettää palautetta.
+
+Episodin vaatimukset:
+Ultimate Tapan Kaikki V.1.21

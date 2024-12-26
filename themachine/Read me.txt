@@ -1,0 +1,149 @@
+================================================================
+Title                   : The Machine
+Date                    : 26/11/99
+Filename                : machine.zip
+Author                  : Daniel Howard
+Email Address           : ahoward@scait.in2home.co.uk
+Home Page               : nope
+
+Description             : an extremelly high quality episode of 11 levels with
+			  a detailed story which fits in perfectly with them
+			  . It is not immposibly hard, the first few levels 
+                          are easy but things hot up later on, all the levels
+			  are designed to be entertaining, not immpossible.
+			  As an additon, they are all optimised for
+			  deathmatch play. The levels are very different in
+			  difficulty, style and size and so give a rewarding
+			  single and multiplayer experience.
+			  
+                         
+Additional Credits to   : Error Free, for making the brilliant TK.
+			  Andrew Gordon and Oliver Lister for multiplayer
+			  testing.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yup, very good
+Cooperative             : Yes, much better this way
+Deathmatch              : Certainly, levels range from small 1v1 maps to
+			  large 8 player ones.
+
+* Construction *
+
+Base                    : New levs from scratch
+Editor(s) used          : Tk level builder 1.2
+Known Bugs              : None.
+Build Time              : None.
+
+==================================STORY======================================
+
+                                 -Level 1-
+				  Accident
+
+	You and your brother run a car garage to the side of a highway.
+Outside is your customised 'Hot Rod'. Your busy working on a car one day when
+you here a huge explosion followed by the sound of gunfire. Grabbing your 
+pistol you go out to see what has happened. It looks like a huge
+army has gone through. After killing the remaider of the army you follow
+the trail of devastation.
+
+			 	-Level 2-
+			       Institution
+
+	You come across a huge building and enter. After killing all
+the people who threaten you, you notice on a computer screen blueprints for
+a huge, armoured, tank-tracked, personal carrier. This is not good, it seems
+that an mad dictator plans to destroy Washington DC with this vehicle and a
+huge mind controlled army!! You must destroy the army to save America! You
+reload your shotgun and go deeper into the building.
+
+				-Level 3-
+			       Secret Road
+
+	In the basement of the building you come across an underground road
+which leads to a large factory. After killing the mind controlled shotgun 
+guards, you follow the road.
+
+				-Level 4-
+			       Docking Bay
+	
+	The road leads to a huge nuclear powered arms factory, you read
+on a computer screen that Mr. Mad Dictator is building an underground army
+base filled with his own built weaponry and with the local population of
+Pleasantville as its soldiers! (add dramatic music) Cocking your pistol, you
+enter the path that leads to the army base.
+
+				-Level 5-
+			       Secret Army
+
+	That was tough but you wiped out all the army stationed at the base
+, now to find away out. Remebering the computer in the factory you recall
+there is a way out through the back of the base which is stil under 
+construction. After raiding the store rooms you enter the back of the 
+underground base. 
+
+				-Level 6-
+			    Under Construction
+
+	You enter the boiler room which heats the base and notice that the
+rest of the base is still under construction. You know there is a way to the
+surface, but you have yet to find it. The area is superhot with the combined
+heat of the boilers and the small fissures which ooze with lava.
+
+				-Level 7-
+			        Resurface
+
+	Finally you reach the surface! Mr. Mad Dictator seems to have another
+supply line going to the base from the highway. Unfortunately His evil mind
+control has reached here already. To stop him taking control and gaining a
+bigger army you will have to go to Pleasantville and neutralise it's
+inhabitants.
+
+				-Level 8-
+			      Pleasantville
+
+	Here you are, Pleasantville, you hate to do this, but every one must
+DIE! After killing the population you notice a scrap of paper sticking out
+of the pocket on the severed leg of a commando. Wiping off the blood you see
+a map of the location of the secret jungle factory that is manufacturing the
+tank-tracked, heavily-armed personnel carrier. You hot wire a car and drive 
+there.
+
+				-Level 9-
+			       Power Source
+
+	After pushing through the jungle you come across the factory. It's
+heavily defended. but you manage to get in and move towards the hangar where 
+The Machine is built.
+
+				-Level 10-
+				The MACHINE
+
+	You get there, it's huge, and heavily defended. The machine is
+mounted on 2 large tank tracks and has 2 massive pincers, 2 Heavy Launchers,
+2 Grenade launchers and 2 close range Flame throwers. It has 2 floors, the top
+has the controls for The Machine, and the bottom contains the army. An idea
+forms, you hide in a compartment and wait for the army to arrive. Unfortunately
+The door locks and you cant escape. After awhile of struggeling you hear the
+army arrive and The Machine starts to trundle towards Washington DC.
+
+				-Level 11-
+			         Too late
+
+	You manage to force the door open and rush out. Blam Blam Blam!
+you shoot controllers of The Machine dead and It stumbles to a halt. Now for
+the army.
+
+=============================================================================
+
+I hope you enjoyed my little story :).
+
+Please E-mail me with feed back on my episode you will encourage me to make 
+more (or if the you feel that way, discourage me) 
+
+
+* Copyright / Permissions *
+
+You may distribute this episode as long as you keep this text file with it.

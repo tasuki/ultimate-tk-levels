@@ -1,0 +1,43 @@
+
+Nimi                    : World Travel for TK3.1
+Kenttiä                 : 20
+Versio                  : 1.0
+Päivä                   : 6.12.1999
+Tiedostonimi            : world.zip
+Tekijä                  : Strange Man
+Sähköposti              : tommisuni_88@hotmail.com
+Kotisivu                : www.geocities.com\tommisuni
+Kiitokset               : Error Free - Kun tekiv„t n„in hyv„n pelin
+nimelt„ Tapan Kaikki.
+
+Jos löydät bugeja tai jotain muuta niin
+muista lähettää palautetta.
+
+Episodin vaatimukset:
+Ultimate Tapan Kaikki V.1.21
+
+Episodin tarina:
+
+Kaksi tappajaa ovat p„„tt„neet
+l„hte„ maailman kiertueelle.Matkalla he
+kuitenkin kohtaavat paljon erilaisia
+vihollisia.Tapa heid„t tai palaa
+kotiin (huijui...) tai KUOLE!!!
+
+------------------------------------------------------------------------------
+
+Peli Informaatiota:
+
+Yksinpeli               : Kyll„
+Kaksinpeli              : Kyll„
+Deathmatch              : Kyll„
+
+Teko:
+
+Editoria k„ytetty       : TK Editor V.1.3
+Rakennus aika           : 2h
+
+Tekij„noikeudet:
+
+Voit k„ytt„„ n„it„ tekemi„ni kentti„ omissa kentiss„si
+jos voisit kiltisti antaa minulle creditin episodissasi.

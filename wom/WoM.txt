@@ -1,0 +1,51 @@
+================================================================
+Title                   : War of Mankind episode
+Date                    : Stardet 14/11/1999, finished 18/11/1999
+Filename                : fashats.zip
+Version                 : #1.0
+TK version              : 3.1 (NOT 3.0!)
+Author                  : Sea Weaper
+Email Address           : jarhu@iobox.fi
+Home Page               : http://www.geocities.com/jarno_2000
+Snail Mail Address      : use email!
+
+Description             : Set of high quality single player levels,
+                          levels are challenning, but not impossible.
+			  Do not cheat! Send feedback and visit my 
+                          pages!  
+
+                          New version v1.0
+
+                          NEW : all
+
+Additional Credits to   : Error Free software for answering for my
+                          stupid questions. 
+
+================================================================
+* How to play???? *
+
+Unzip to \levs\WoM
+and run the game:)
+
+================================================================
+
+* Play Information *
+
+Single Player           : High quality
+Cooperative             : Good 
+Deathmatch              : Not yet :(
+
+* Construction *
+
+Editor(s) used          : TK editor 1.3
+Known Bugs              : None, mail if there is :(
+Build Time              : 4 days
+
+* Other Info *
+
+Check out my homepage http://www.geocities.com/jarno_2000 for more
+levels. Get the whole series! You can also send your own
+levels for me, and I'll put them to my TK3 page.
+
+
+

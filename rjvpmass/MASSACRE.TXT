@@ -1,0 +1,37 @@
+================================================================
+Title                   : Pure Massacre
+Date                    : 10/16/98
+Filename                : rjvpmass.zip
+Author                  : rjv
+Email Address           : ottoh@helsinki.crosswinds.net
+Home Page               : nay
+
+Description             : Bad guys are trying to conquer the world
+			  once again. You're a Steven Seagull-wannabe
+                          and yr mission is to kill all your enemies
+			  before they kill you. 
+
+			  This episode includes nine thrilling levs.
+                         
+Additional Credits to   : Error Free Prodz. for making this brilliant game 
+			  called Tapan Kaikki.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yea
+Cooperative             : Yea
+Deathmatch              : Yea (though some of the levs aren't designed 4 dm)
+
+* Construction *
+
+Base                    : New levs from scratch
+Editor(s) used          : Tk level builder 1.2
+Known Bugs              : Dunno.
+Build Time              : Dunno.
+
+* Copyright / Permissions *
+
+You may distribute this episode as long as you keep this text file with it.
+You may use these levs as a base of yr levs but credit me then.

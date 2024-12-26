@@ -1,0 +1,116 @@
+
+  BLOOD WARS - LUEMINUT TIEDOSTO - 22.11.99
+  -----------------------------------------
+
+  1. INFOA EPISODISTA:
+ 
+  Nimi:                       Blood Wars
+
+  Tekijä:                     Pekka Siippainen
+
+  Toimii TK:ssa:              3.2 ja 3.21
+
+  Yksinpeli:                  On
+
+  Kaksinpeli:                 On, kohtalaisen laadukas
+
+  Deathmatch:                 Ei ole
+
+  Mahdolliset bugit:          Ei tiedossa. Mailaa jos löydät!
+
+  Tekijän kotisivu:           http://www.mbnet.fi/~lexa 
+
+  Tekijän E-MAIL:             kalle47@saunalahti.fi
+
+  
+  2. TEKIJÄN KOMMENTIT:
+
+  Tämä on ensimmäinen episodini, jonka olen antanut yleiseen käyttöön,
+  ja toivon, että pidät siitä. Kaikki mielipiteet episodista voit 
+  lähettää osoitteeseen kalle47@saunalahti.fi. Käväise myös koti-
+  sivuillani, sieltä löytyy kaikkea kivaa ja mahdollisesti uusia,
+  minun tekemiä episodejani. Siellä on mahdollisesti myös muiden 
+  lähettämiä epsiodeja sekä tasoja. Jotkut episodin kentistä saatta-
+  vat olla vaikeita, itse olen ainakin läpäissyt kaikki. Jos sinulla
+  on ideoita, mikä voisi olla seuraavan episodin nimi ja minkälaisia
+  tasoja siinä voisi olla, lähetä postia. Voit myös lähettää omia 
+  episdoejasi minulle E-Maililla. Mutta vain riittävän laadukkaat
+  episodit hyväksytään. Laitan kaikki riittävän laadukaat episodit
+  sivuilleni. Älä kuitenkaan lähetä episodiasi/viestiäsi, jos se ei 
+  täytä seuraavia ehtoja:
+
+      1. Episodin pitää olla liitetiedostona sähköpostiviestissä.
+
+      2. Sinun pitää mainita sähköpostiviestissä nimesi (tai 
+         nimimerkkisi) ja sähköpostiosoitteesi.
+
+      3. Episodin täytyy sisältää suomenkielinen lueminut-tiedosto.
+
+      4. Episodissa pitää olla vähintään 5 tasoa.
+
+      5. Kaikissa tasoissa pitää olla level-kommentti. Kukaan ei
+         jaksa (ainakaan minä) pelata episodia jossa ei ole
+         lainkaan otsikkoja.
+
+   Jos episodisi täyttää nämä ehdot, se on tervetullut!
+
+   
+   3. LEVELIEN ESITTELY:
+
+   Taso 1:     Katuterrorismia
+ 
+   Taso 2:     Parkkihalli
+
+   Taso 3:     Salainen huumetehdas
+
+   Taso 4:     Keskus-WC
+
+   Taso 5:     Terroristien tukikohta
+
+   Taso 6:     Grillaajat
+
+   Taso 7:     Tie helvettiin
+
+   Taso 8:     Tervetuloa helvettiin
+   
+   
+   4. USEIMMIN KYSYTYT KYSYMYKSET:
+
+       K:    Minusta 5. tasosta ylöspäin episodi muuttuu todella
+             vaikeaksi. Voisitko antaa jotain neuvoja?
+
+       V:    No voinhan toki. Yritä pärjätä sen verran hyvin että
+             saat hankittua 5. maahan Auto-Shotgunin. Yritä kerätä
+             viidennessä maassa itsellesi Grenade Launcher ennen
+             kuin kohtaat sen mielipuolen kranaattimiehen. Sen nitis-
+             täminen Grenade Launcherilla on huomattavasti helpompaa
+             kuin Auto-Shotgunilla. Kuudennen maan kaksi liekittäjää
+             voittaa helposti kun peräännyt ja ammut kranaatteja kohti 
+             samaan aikaan. Osuminen on sitten toinen juttu. Seitse-
+             männen maan Punisherit voittaa myös helposti kun perään-
+             tyy ja ampuu. Jos kranaattimies on aukealla paikalla, sen
+             nitistäminen vaatii jo enemmän taitoa: kun kranaattimies
+             laukaisee, väistä kranaatti astumalla sivuun, käänny, 
+             tähtää nopeasti ja laukaise. Toista tätä liikettä kunnes
+             kranaattimies on kuollut. 
+
+
+       K:    Eikö E-MAIL osoitteesi pitäisi olla lexa@mbnet.fi tai
+             jotain sinnepäin?
+
+       V:    Se onkin toinen E-MAIL osoitteeni, mutta käytä osoitetta
+             kalle47@saunalahti.fi koska lataan postin aina sieltä.
+
+       
+       K:    Milloin teet seuraavaan episodisi ja minkälainen se on? 
+
+       V:    Sitten kun keksin idean tai minulle lähetetään jotain 
+             ideoita. Sitä en vielä tiedä, minkälainen siitä tulee, 
+             mutta voit ehkä vaikuttaa siihen lähettämällä postia. 
+             Lähetelkää ideoita!
+
+
+  - TIEDOSTON LOPPU -
+ 
+   
+  

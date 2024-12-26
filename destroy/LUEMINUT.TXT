@@ -1,0 +1,12 @@
+
+Nimi                    : Destroy Anything for TK3.1
+Kenttiä                 : 9
+Versio                  : 1.0
+Päivä                   : 29.10.1999
+Tiedostonimi            : destroy.arj
+Tekijä                  : Strange Man
+Sähköposti              : tommisuni_88@hotmail.com
+Kotisivu                : Ei ole.
+
+Jos löydät bugeja tai jotain muuta niin
+muista lähettää palautetta.

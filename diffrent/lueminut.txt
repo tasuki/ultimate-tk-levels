@@ -1,0 +1,130 @@
+		 NIMI: Different
+	       VERSIO: 1.0
+VALMISTUMISPÄIVÄMÄÄRÄ: 27.2.1999
+	       TEKIJÄ: Wilbur Fox
+	   SÄHKÖPOSTI: wilbur_fox@hotmail.com
+	    KOTISIVUT: Ei (vielä?)
+
+
+1.0 HAKEMISTO
+    =========
+
+Hakemisto...................... 1.0
+Asennusohjeet.................. 2.0
+Nippelitietoa.................. 3.0
+Tarina......................... 4.0
+Vinkit......................... 5.0
+  Vinkit Different-episodiin... 5.1
+  Huijauskoodit................ 5.2
+  Vinkit koko peliin........... 5.3
+Virusturvallisuus.............. 6.0
+Tekijällä on asiaa............. 7.0
+  Kiitokset.................... 7.1
+  Tekijänoikeudet.............. 7.2
+
+
+2.0 ASENNUSOHJEET
+    =============
+
+Siirrä (purkamisen jälkeen) tiedoston diffrent.zip sisältö 
+alihakemistoon \levs, niin episodi on valmiina pelattavaksi.
+
+
+3.0 NIPPELITIETOA
+    =============
+
+TK-versio: Tapan Kaikki 3.1 (Ultimate TK 1.1)
+Tasoeditori: TK level editor v1.2
+Yksinpeli: kyllä
+Kaksinpeli: kyllä
+Deathmatch: ei
+
+
+4.0 TARINA
+    ======
+
+Olet töissä huvipuistossa. Tällä hetkellä testaat uudistettua Vekkulaa,
+mutta siellä piileksiikin edelliseltä pankkikeikaltaan jokin
+terroristiporukka, joka yrittää lahdata sinut hinnalla millä hyvänsä.
+Raivaa tiesi ulos Vekkulasta kaikkien pahisten läpi... tai kuole!
+
+
+5.0 VINKIT
+    ======
+
+Nimimerkkejä voi olla mukava etsiä, mutta älä viitsi alentua
+huijaamaan.
+
+  5.1 Vinkit Different-episodiin
+      --------------------------
+
+  Olen piilottanut yhteensä kolme FOX-nimimerkkiä, eli tagia episodiin.
+  Saa nähdä, löydätkö kaikki turvautumatta Editoriin. Pelin
+  tiimellyksessä niitä voi olla vaikea paikallistaa.
+
+  Tasossa 9 oleva numero 9 (katso tason karttaa) ei tarkoita kyseisen
+  tason numeroa, vaan jotain aivan muuta. Niiden, jotka tunnistavat
+  nimeni (vai onko se nimimerkki?), pitäisi tietää mitä nro 9
+  merkitsee.
+
+  5.2 Huijauskoodit
+      -------------
+
+  Kirjoita pelaajan 1 nimeksi "iron" ja pelaajan 2 nimeksi "maiden"
+  (ilman lainausmerkkejä), niin edellämainitun nimiseksi nimetty
+  pelaaja saa 50000 rahaa.
+
+  5.3 Vinkit koko peliin
+      ------------------
+
+  Paloittele, lahtaa, murhaa, teurasta, listi, teilaa, viipaloi,
+  muussaa, murskaa, ammu, räjäytä, surmaa, nitistä, terminoi, lopeta,
+  teloita, mestaa, liiskaa, leväytä, halkaise, tapa kaikki!
+
+
+6.0 VIRUSTURVALLISUUS
+    =================
+
+Different-episodi on täysin puhdas viruksista. Virustarkastus on
+suoritettu virustorjuntaohjelmalla "Dr Solomon's Anti-Virus Toolkit for
+Win95 version 7.91" (tuntee 24709 virusta, troijalaista ja varianttia).
+
+
+7.0 TEKIJÄLLÄ ON ASIAA
+    ==================
+
+Tavoitteeni tätä (ensimmäistä) episodia tehdessäni oli saada siitä
+mahdollisimman epätavallinen ja poikkeava muiden tekemiin tasoihin
+nähden. Ja pakkohan tasojen on olla outoja, kun kyseessä on Vekkula
+(kts. kohta 4.0).
+
+Minulla oli vaikeuksia saada tasoihin sopiva vaikeustaso, koska tämä on
+ensimmäinen episodi, jonka olen tehnyt (toinen on tekeillä). Toivon
+saavani perusteltua(!) palautetta sähköpostiini mahdollisimman pian,
+ennen toisen episodin julkaisemista.
+
+  7.1 Kiitokset
+      ---------
+
+  Kiitän suuresti seuraavia henkilöitä, joiden apu oli välttämätöntä
+  episodin valmistumiselle:
+
+   * Steelpounder toimi betatestaajana ottaen raskaan vastuun tasojeni
+     arvioinnissa
+   * Erik Lindroos opasti minua Editorin käytössä (onhan TK:n mukana
+     editor.txt ohjaamassa, mutta kaverin kanssa oli mukavampi
+     opetella)
+   * Allu & Unski, jotka loivat tietokonepelimaailmaan aivan
+     uuden ulottuvuuden nimeltä Tapan Kaikki
+
+  7.2 Tekijänoikeudet
+      ---------------
+
+  Tätä freeware-episodia saa levittää vapaasti niin kauan, kuin nämä 2
+  tiedostoa "lueminut.txt" ja "readme.txt" ovat mukana. Sen tasoja saa
+  käyttää pohjana uusiin tasoihin, kunhan minut mainitaan niissä.
+
+
+Helsingissä 11.5.1999
+Wilbur Fox
+The Overlord of the Knights Who Are Fighting in the Holy War for Metal
